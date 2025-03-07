@@ -17,6 +17,9 @@ Este proyecto es una Pokédex desarrollada en **ReactJS** con **TypeScript**, ut
 - **Jest & React Testing Library** - Para TDD.
 - **Axios o Fetch API** - Para consumo de PokeAPI.
 
+## Demo
+[Pokedex - demo](https://pokedex-ruddy-xi.vercel.app/)
+
 ## 📦 Instalación y ejecución
 
 1. Instalar dependencias:
