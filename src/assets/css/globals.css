@@ -1,0 +1,117 @@
+* {
+    --color-darkblue: #2c3151;
+    --first-color: #f5deb3;
+    --second-color: #f5f5dc;
+    --color-orange: #f8b914;
+
+
+    --type-normal: #A8A878;
+    --type-rock: #B8A038;
+    --type-dragon: #7038F8;
+    --type-bug: #A8B820;
+    --type-steel: #B8B8D0;
+    --type-fire: #F08030;
+    --type-water: #6890F0;
+    --type-grass: #78C850;
+    --type-electric: #F8D030;
+    --type-ice: #98D8D8;
+    --type-fighting: #C03028;
+    --type-poison: #A040A0;
+    --type-ground: #E0C068;
+    --type-flying: #A890F0;
+    --type-psychic: #F85888;
+    --type-fairy: #F0B6BC;
+    --type-ghost: #705898;
+    --type-dark: #705848;
+}
+
+/* type colors */
+.type-normal {
+    background-color: var(--type-normal);
+    color: var(--clr-black);
+}
+
+.type-rock {
+    background-color: var(--type-rock);
+    color: var(--clr-black);
+}
+
+.type-dragon {
+    background-color: var(--type-dragon);
+    color: var(--clr-white);
+}
+
+.type-bug {
+    background-color: var(--type-bug);
+    color: var(--clr-black);
+}
+
+.type-steel {
+    background-color: var(--type-steel);
+    color: var(--clr-black);
+}
+
+.type-fire {
+    background-color: var(--type-fire);
+    color: var(--clr-black);
+}
+
+.type-water {
+    background-color: var(--type-water);
+    color: var(--clr-black);
+}
+
+.type-grass {
+    background-color: var(--type-grass);
+    color: var(--clr-black);
+}
+
+.type-electric {
+    background-color: var(--type-electric);
+    color: var(--clr-black);
+}
+
+.type-ice {
+    background-color: var(--type-ice);
+    color: var(--clr-black);
+}
+
+.type-fighting {
+    background-color: var(--type-fighting);
+    color: var(--clr-white);
+}
+
+.type-poison {
+    background-color: var(--type-poison);
+    color: var(--clr-white);
+}
+
+.type-ground {
+    background-color: var(--type-ground);
+    color: var(--clr-black);
+}
+
+.type-flying {
+    background-color: var(--type-flying);
+    color: var(--clr-white);
+}
+
+.type-psychic {
+    background-color: var(--type-psychic);
+    color: var(--clr-black);
+}
+
+.type-fairy {
+    background-color: var(--type-fairy);
+    color: var(--clr-black);
+}
+
+.type-ghost {
+    background-color: var(--type-ghost);
+    color: var(--clr-white);
+}
+
+.type-dark {
+    background-color: var(--type-dark);
+    color: var(--clr-white);
+}
